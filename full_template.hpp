@@ -1,5 +1,5 @@
 #pragma once
-#include "sum.hpp"
+#include "sum_template.hpp"
 template <class S>
 class FullMtx {
   S** mx;
